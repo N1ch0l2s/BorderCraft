@@ -1,5 +1,5 @@
 # BorderCraft the RPS (Role-Playing Shooter)
-Pack on a bit of a hiatus. Been getting back to actually playing modpacks instead of developing. You'll know when it's back.
+v5.2 was just a small update to break the hiatus - big update soon.
 Link to pack: https://www.curseforge.com/minecraft/modpacks/bordercraft-the-rps-roleplaying-shooter
 # DISCLAIMER:
 
@@ -26,5 +26,5 @@ The pack has 175 mods - however most of are of utilitarian nature or are meant t
 
 # Enjoy the pack! Feel free to leave any feedback in the comments! Or, join the Discord!
 #  Pack Discord: https://discord.gg/UYyW2vhhDW
-
+Credits to Shotgunfrenzy#8367 from the Borderlands Discord server for the RPS text art.
  https://flansmod.com/license
